@@ -1,21 +1,30 @@
 import sys
+from spiral import ronin
+
 
 def out_piece_snippet():
     lines_extraction = []
     integrate_text = ''
     idx_list1 = []
+    identifier_list = []
     is_start = False
     cnt = 0
     
     lines = sys.stdin.readlines()
-    
     for line in lines:
         if line[0:2] == '@@':
             is_start = True
             idx_list1.append(cnt)
         if is_start == True and(line[0] == '+' or line[0] == ' '):
-            lines_extraction.append(line[1:].strip())
-            cnt += 1
+            tmp = line[1:].strip()
+            if tmp.isidentifier() == True:
+                identifier_list = ronin.split(tmp)
+                for identity in identifier_list:
+                    lines_extraction.append(identity.lower())
+                cnt += len(identifier_list)
+            else:
+                lines_extraction.append(line[1:].strip())
+                cnt += 1
             
     if not sys.stdin.isatty():
         n = 1
