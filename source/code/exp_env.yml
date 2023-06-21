@@ -1,8 +1,0 @@
-name: test
-channels:
-  - defaults
-dependencies:
-  - python=3.9
-  - gitpython
-  - ipykernel
-prefix: C:\Users\masak\anaconda3\envs\test

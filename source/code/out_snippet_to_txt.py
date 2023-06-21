@@ -8,7 +8,7 @@ def out_snippet_to_txt(txt_name):
         idx = lines[0].strip()
         for line in lines[1:]:
             cnt += 1
-            integrate_txt = idx + '-'+str(cnt) +','+line
+            integrate_txt = idx + '-'+str(cnt) +'\t' + line
             f_snippet.write(integrate_txt)
         if not sys.stdin.isatty():
             return
