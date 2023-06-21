@@ -156,7 +156,8 @@ def main():
     #     sys.exit(0)
     # auth_ext = ['java','c','h','cpp','hpp','cxx','hxx']
     auth_ext = ['java']
-    repo_path = '../../../../javasource/'
+    # repo_path = '../../../../javasource/'
+    repo_path = '../../../../sample_data/camel'
     branch_name = 'main'
     # repo_path = sys.argv[1]
     # diff_lines = sys.argv[2]
