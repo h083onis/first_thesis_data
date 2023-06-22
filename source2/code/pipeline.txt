@@ -1,0 +1,10 @@
+python pipeline_spiral3.py ../../../../sample_data/camel 0 cnt_source_file_camel0.txt hexsha_filename_camel0.txt error_log_camel0.txt snippet_camel0.txt
+python pipeline_spiral3.py ../../../../sample_data/camel 0 cnt_source_file_camel0.txt hexsha_filename_camel0.txt error_log_camel0.txt snippet_camel0.txt
+python pipeline_spiral3.py ../../../../sample_data/camel 0 cnt_source_file_camel0.txt hexsha_filename_camel0.txt error_log_camel0.txt snippet_camel0.txt
+python pipeline_spiral3.py ../../../../sample_data/camel 0 cnt_source_file_camel0.txt hexsha_filename_camel0.txt error_log_camel0.txt snippet_camel0.txt
+python pipeline_spiral3.py ../../../../sample_data/camel 0 cnt_source_file_camel0.txt hexsha_filename_camel0.txt error_log_camel0.txt snippet_camel0.txt
+python pipeline_spiral3.py ../../../../sample_data/camel 0 cnt_source_file_camel0.txt hexsha_filename_camel0.txt error_log_camel0.txt snippet_camel0.txt
+python pipeline_spiral3.py ../../../../sample_data/camel 0 cnt_source_file_camel0.txt hexsha_filename_camel0.txt error_log_camel0.txt snippet_camel0.txt
+python pipeline_spiral3.py ../../../../sample_data/camel 0 cnt_source_file_camel0.txt hexsha_filename_camel0.txt error_log_camel0.txt snippet_camel0.txt
+python pipeline_spiral3.py ../../../../sample_data/camel 0 cnt_source_file_camel0.txt hexsha_filename_camel0.txt error_log_camel0.txt snippet_camel0.txt
+python pipeline_spiral3.py ../../../../sample_data/camel 0 cnt_source_file_camel0.txt hexsha_filename_camel0.txt error_log_camel0.txt snippet_camel0.txt
