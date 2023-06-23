@@ -1,1 +1,1 @@
-python pipeline_spiral3.py ../../../../sample_data/camel 3 cnt_source_file5.txt hexsha_filename5.txt error_log5.txt snippet5.txt
+python pipeline_spiral3.py ../../../../javasource 3 cnt_source_file5.txt hexsha_filename5.txt error_log5.txt test_snippet.txt
