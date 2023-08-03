@@ -1,1 +1,0 @@
-python exe_make_snippet.py ../../../../sample_data/camel 0-10

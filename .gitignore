@@ -1,6 +1,10 @@
-source/resource/
-
-
+source3_3/resource/
+source3_3/label/
+source3_3_in_spiral/resource/
+source3_3_in_spiral/label/
+source3_3_spiral/resource/
+source3_3_spiral/label/
+source4/resource/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
