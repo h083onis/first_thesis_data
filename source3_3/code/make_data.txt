@@ -1,0 +1,1 @@
+python make_data.py ../../../../sample_data/data/camel_txt_vec/txt_vec_camel_11.txt ../label/label_camel.csv ../../../../sample_data/data/camel_txt_vec_and_label/txt_vec_and_label_camel_11.csv 2000

@@ -1,0 +1,1 @@
+python make_vec_from_mapping_table.py ../../../../sample_data/data/camel_snippet_each_commit/commit_snippet_camel_12.txt ../../../../sample_data/data/camel_txt_vec/txt_vec_camel_12.txt 2000
